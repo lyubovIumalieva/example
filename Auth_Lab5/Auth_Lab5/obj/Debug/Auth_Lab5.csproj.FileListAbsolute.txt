@@ -1,0 +1,11 @@
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\bin\Debug\Auth_Lab5.exe.config
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\bin\Debug\Auth_Lab5.exe
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\bin\Debug\Auth_Lab5.pdb
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.csprojResolveAssemblyReference.cache
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.Form1.resources
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.Properties.Resources.resources
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.csproj.GenerateResource.Cache
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.csproj.CoreCompileInputs.cache
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.exe
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.pdb
+D:\GitClones\DesignDB\ИС\Auth_Lab5\Auth_Lab5\obj\Debug\Auth_Lab5.Main.resources
